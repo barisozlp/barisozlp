@@ -48,12 +48,8 @@
   <hr>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=barisozlp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisozlp&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="150" alt="languages graph" />
-    
-    <br><br>
-    
-    <img src="https://komarev.com/ghpvc/?username=barisozlp&label=Profile%20Views&color=0e75b6&style=flat" alt="barisozlp" />
-  </div>
-  
+<img src="https://github-readme-stats.vercel.app/api?username=barisozlp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisozlp&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="150" alt="languages graph" />
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=barisozlp&label=Profile%20Views&color=0e75b6&style=flat" alt="barisozlp" />
 </div>
