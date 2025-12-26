@@ -44,16 +44,16 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/cGAN-Generative_AI-7952B3?style=for-the-badge" />
   
-  <br><br>
+<br><br>
   <hr>
 
-<div align="center">
-    <img src="[https://github-readme-stats.vercel.app/api?username=barisozlp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en](https://github-readme-stats.vercel.app/api?username=barisozlp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en)" height="150" alt="stats graph" />
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=barisozlp&layout=compact&theme=tokyonight&hide_border=true&locale=en](https://github-readme-stats.vercel.app/api/top-langs/?username=barisozlp&layout=compact&theme=tokyonight&hide_border=true&locale=en)" height="150" alt="languages graph" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=barisozlp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisozlp&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="150" alt="languages graph" />
     
     <br><br>
     
-    <img src="[https://komarev.com/ghpvc/?username=barisozlp&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=barisozlp&label=Profile%20Views&color=0e75b6&style=flat)" alt="barisozlp" />
+    <img src="https://komarev.com/ghpvc/?username=barisozlp&label=Profile%20Views&color=0e75b6&style=flat" alt="barisozlp" />
   </div>
   
 </div>
