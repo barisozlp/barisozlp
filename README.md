@@ -14,10 +14,11 @@
      <b>Object Detection & Tracking, cGAN Architectures, and Autonomous UAV Systems.</b>
   </p>
 
-  <a href="https://www.linkedin.com/in/barisozalp/" target="_blank">
+  <a href="https://www.linkedin.com/in/barış-özalp-14a56a219" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:baris@example.com">
+  
+  <a href="mailto:barisozlp5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
