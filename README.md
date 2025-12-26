@@ -1,17 +1,15 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Barış+Özalp;AI+%26+Deep+Learning+Researcher;Exploring+cGAN+%26+Computer+Vision;Autonomous+Systems+%26+UAV+Researcher" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Barış+Özalp;AI+%26+Deep+Learning+Researcher;Exploring+cGAN+%26+Computer+Vision;Autonomous+Systems+%26+UAV+Researcher" alt="Typing SVG" />
   </a>
 
   <br>
-
-  <h3>🚀 Senior Computer Engineering Student & AI Researcher</h3>
   
-  <p align="center" style="font-size: 16px;">
-      I am passionate about data-driven intelligence and autonomous systems.<br>
-      I conduct R&D studies focused on <b>Deep Learning</b> and <b>Computer Vision</b> to solve complex engineering problems.
-      <br><br>
+  <p align="center">
+     I am a Senior <b>Computer Engineering</b> student passionate about data-driven intelligence. <br>
+     I conduct R&D studies focused on <b>Deep Learning</b> and <b>Computer Vision</b> to solve complex engineering problems.
+     <br><br>
       🔭 Currently focusing on: <br>
       <b>Object Detection & Tracking, cGAN Architectures, and Autonomous UAV Systems.</b>
   </p>
